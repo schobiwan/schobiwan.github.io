@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://schobiwan.github.io
+title: Nico Schober
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
